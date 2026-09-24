@@ -1,0 +1,9 @@
+{
+  "name": "travelmate",
+  "version": "1.0.0",
+  "description": "TravelMate cute scrapbook travel planner",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
